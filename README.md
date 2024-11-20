@@ -1,0 +1,1 @@
+**Quick filesystem navigation using bubble diagram and rapid mouse control**
